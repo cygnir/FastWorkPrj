@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { GraduationCap, Phone } from 'lucide-react';
 import profile1 from '../assets/Profile/1.jpg';
-import profile2 from '../assets/Profile/2.png';
+import profile2 from '../assets/Profile/2.jpg';
 
 const About = () => {
     const team = [
@@ -13,10 +13,10 @@ const About = () => {
             phone: "+6694-550-9631"
         },
         {
-            name: "Anuphab Khanchok",
+            name: "Suvijak Sathiyaburanapong",
             image: profile2,
-            education: "King Mongkut's University of Technology North Bangkok (KMUTNB)",
-            phone: "+6696-689-4337"
+            education: "University of the Thai Chamber of Commerce (UTCC)",
+            phone: "+6688-568-2988"
         }
     ];
 
